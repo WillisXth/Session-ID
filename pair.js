@@ -64,6 +64,10 @@ _SESSION ID_
 
 ❒ Owner: Willis +254702365210
 
+❒ Group: https://chat.whatsapp.com/BIZqcGOOnzEIdmc6CsI6Zv
+
+❒ Channel: https://whatsapp.com/channel/0029VaWBNah8F2p7x8lqG53K
+
 ❒ Github: https://github.com/WinsperTech
 
 ❒ YouTube: www.youtube.com/@WinsperTech
