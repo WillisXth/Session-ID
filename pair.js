@@ -54,11 +54,25 @@ router.get('/', async (req, res) => {
                 let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
                 await delay(800);
                let b64data = Buffer.from(data).toString('base64');
-               let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: 'SIGMA-MD;;;' + b64data });
+               let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: 'WILLIS;;;' + b64data });
 
                let SIGMA_MD_TEXT = `
-*_Pair Code By Maher Zubair_*
-*_Made With 🤍_*
+_SESSION ID_
+- You have successfully connected to WinsperTech.
+
+- Above is your session ID. Copy it as it will be required during deploy.
+
+❒ Owner: Willis +254702365210
+
+❒ Github: https://github.com/WinsperTech
+
+❒ YouTube: www.youtube.com/@WinsperTech
+
+Good Luck ✅
+_____________________________________
+
+https://github.com/WinsperTech
+_____________________________________
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
