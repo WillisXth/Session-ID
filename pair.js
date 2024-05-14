@@ -62,14 +62,10 @@ _SESSION ID_
 
 - Above is your session ID. Copy it as it will be required during deploy.
 
-❒ Owner: Willis +2547862739455
-
+❒ Owner: Willis +254786273945
 ❒ Group: https://chat.whatsapp.com/KlFKWN3QWq04DKeAdjk8gw
-
 ❒ Channel: https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m
-
 ❒ Github: https://github.com/WinsperTech
-
 ❒ YouTube: www.youtube.com/@WillisKE
 
 Good Luck ✅
